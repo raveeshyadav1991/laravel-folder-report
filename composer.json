@@ -11,7 +11,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/raveeshyadav/laravel-folder-report.git"
+            "url": "https://github.com/raveeshyadav1991/laravel-folder-report.git"
         }
     ],
     "require": {
