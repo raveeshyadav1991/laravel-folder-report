@@ -3,17 +3,13 @@
     "description": "A Laravel package to generate folder size reports with HTML output.",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "Raveesh\\FolderReport\\": "src/"
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/raveeshyadav1991/laravel-folder-report.git"
-        }
-    ],
     "require": {
         "php": ">=8.0",
         "illuminate/support": "^9.0|^10.0|^11.0"
